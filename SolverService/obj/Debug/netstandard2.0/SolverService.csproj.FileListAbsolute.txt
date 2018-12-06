@@ -1,0 +1,9 @@
+C:\Users\edv1eku\Desktop\study\SolverService\bin\Debug\netstandard2.0\SolverService.deps.json
+C:\Users\edv1eku\Desktop\study\SolverService\bin\Debug\netstandard2.0\SolverService.dll
+C:\Users\edv1eku\Desktop\study\SolverService\bin\Debug\netstandard2.0\SolverService.pdb
+C:\Users\edv1eku\Desktop\study\SolverService\obj\Debug\netstandard2.0\SolverService.csprojAssemblyReference.cache
+C:\Users\edv1eku\Desktop\study\SolverService\obj\Debug\netstandard2.0\SolverService.csproj.CoreCompileInputs.cache
+C:\Users\edv1eku\Desktop\study\SolverService\obj\Debug\netstandard2.0\SolverService.AssemblyInfoInputs.cache
+C:\Users\edv1eku\Desktop\study\SolverService\obj\Debug\netstandard2.0\SolverService.AssemblyInfo.cs
+C:\Users\edv1eku\Desktop\study\SolverService\obj\Debug\netstandard2.0\SolverService.dll
+C:\Users\edv1eku\Desktop\study\SolverService\obj\Debug\netstandard2.0\SolverService.pdb
